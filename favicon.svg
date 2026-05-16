@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Background: Black Russian -->
+  <rect width="32" height="32" fill="#000029"/>
+  <!-- Clipped corner (bottom-right) -->
+  <polygon points="0,0 32,0 32,24 24,32 0,32" fill="#000029"/>
+  <polygon points="32,24 32,32 24,32" fill="#173DED" opacity="0.6"/>
+  <!-- K letterform -->
+  <rect x="5" y="8" width="2.5" height="16" fill="#F4F5F8"/>
+  <polygon points="7.5,15.5 15,8 18,8 10.5,16 18,24 15,24" fill="#F4F5F8"/>
+  <!-- P letterform -->
+  <rect x="19" y="8" width="2.5" height="16" fill="#173DED"/>
+  <path d="M21.5,8 L25,8 Q28,8 28,12 Q28,16 25,16 L21.5,16 Z" fill="#173DED"/>
+  <!-- Dot accent -->
+  <circle cx="29" cy="24" r="1.5" fill="#173DED"/>
+</svg>
